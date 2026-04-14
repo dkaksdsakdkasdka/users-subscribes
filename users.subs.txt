@@ -1,5 +1,5 @@
 tvink66:sub:yes
-arseris:sub:yes
+arseris:sub:no
 erkoerkoerko:sub:yes
 zxcutes:sub:yes
 kanizikol:sub:no
