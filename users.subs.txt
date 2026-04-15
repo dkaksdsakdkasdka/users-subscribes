@@ -4,4 +4,4 @@ erkoerkoerko:sub:yes
 zxcutes:sub:yes
 kanizikol:sub:no
 vilka:sub:yes
-exxtraz1kk:yes
+exxtraz1kk:sub:yes
