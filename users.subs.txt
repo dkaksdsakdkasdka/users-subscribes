@@ -1,4 +1,4 @@
-tvink66:sub:yes
+tvink66:sub:no
 arseris:sub:yes
 erkoerkoerko:sub:yes
 zxcutes:sub:yes
