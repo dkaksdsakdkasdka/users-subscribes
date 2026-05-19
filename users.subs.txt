@@ -14,3 +14,4 @@ MrLetron:sub:yes
 madara_5121:sub:no
 kithak52:sub:yes
 kokokola53:sub:yes
+Kristalik:sub:yes
