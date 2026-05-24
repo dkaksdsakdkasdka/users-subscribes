@@ -16,4 +16,4 @@ kithak52:sub:yes
 kokokola53:sub:yes
 Kristalik:sub:no #ЧСП
 Texiz:sub:no #ЧСП
-aleksandroo:sub:no
+aleksandroo:sub:yes
