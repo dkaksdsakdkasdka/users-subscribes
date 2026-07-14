@@ -24,3 +24,4 @@ broyashkaaa:sub:yes
 omar:sub:yes
 pltovko:sub:yes
 MerkyRyy:sub:no #ЧСП
+Pandaforius12:sub:yes
